@@ -14,9 +14,9 @@ Como analista de QA, posso trabalhar com estratégias de testes, testes E2E e AP
 <div> 
 <br>
 <div align="center" width="100%">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=NelsoonMendees&theme=chartreuse-dark&hide_border=true" alt="NelsoonMendees" />
-  <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=NelsoonMendees&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="NelsoonMendees" />  
-  <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NelsoonMendees&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="NelsoonMendees" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=NelsoonMendeees&theme=chartreuse-dark&hide_border=true" alt="NelsoonMendees" />
+  <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=NelsoonMendeees&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="NelsoonMendees" />  
+  <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NelsoonMendeees&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="NelsoonMendees" />
 </div>
   
 <br>
