@@ -2,7 +2,7 @@
 <h5> Sou graduado em Analise e Desenvolvimento de Sistemas, atualmente trabalho como Analista de Testes.
 Minhas principais habilidades incluem:</h5>
 
-<h5> 🖐️ Testes Manuais: Como parte do meu papel como QA Engineer, também realizo testes manuais abrangentes, tanto em APIs quanto em aplicações web. </h5>
+<h5> 🖐️ Testes Manuais: Como parte do meu papel como QA, também realizo testes manuais abrangentes, tanto em APIs quanto em aplicações web. </h5>
 
 <h5> 🤖 Automação Eficiente: Desenvolvo scripts eficientes para testes automatizados utilizando Cypress, proporcionando confiabilidade e rapidez na verificação da qualidade do software.</h5>
 
