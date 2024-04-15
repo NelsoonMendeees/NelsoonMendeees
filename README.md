@@ -16,16 +16,15 @@ Minhas principais habilidades incluem:</h5>
 # 💻 Tech Stack:
 
 <div style="display: inline_block">
-<img align="center" alt="-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
-<img align="center" alt="-Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />     
-<img align="center" alt="-Cypress" height="30" width="40" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" />     
+<img align="center" alt="-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" /> 
+<img align="center" alt="-Cypress" height="30" width="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/cypress-dark.svg" />     
+<img align="center" alt="-Playwright" height="30" width="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/playwright-dark.svg" />
 <img align="center" alt="-K6" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" />
 <img align="center" alt="-Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img align="center" alt="-Playwright" height="30" width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/37cb517e-d059-4cc0-8124-1a72b663167c.png" />
 </div></br>
 
 <div align="center" width="100%">
