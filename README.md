@@ -21,6 +21,7 @@ Minhas principais habilidades incluem:</h5>
 <img align="center" alt="-Playwright" height="40" width="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/playwright-dark.svg" />
 <img align="center" alt="-K6" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" />
 <img align="center" alt="-Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="center" alt="-Github" height="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" />
 <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
