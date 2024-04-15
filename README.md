@@ -10,7 +10,7 @@ Minhas principais habilidades incluem:</h5>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nelsongomees" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="nofollow"></a>  
+<a href="https://linkedin.com/in/nelsongomees" target="_blank" rel="nofollow"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linkedin.svg" target="_blank" rel="nofollow"></a>  
 <br>
 
 # 💻 Tech Stack:
