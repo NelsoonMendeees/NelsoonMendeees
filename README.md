@@ -15,7 +15,7 @@ Minhas principais habilidades incluem:</h5>
 
 # 💻 Tech Stack:
 
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
 <img align="center" alt="-Postman" height="40" width="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" /> 
 <img align="center" alt="-Cypress" height="40" width="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/cypress-dark.svg" />     
 <img align="center" alt="-Playwright" height="40" width="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/playwright-dark.svg" />
