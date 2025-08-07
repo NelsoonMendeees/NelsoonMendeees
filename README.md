@@ -16,10 +16,10 @@ Minhas principais habilidades incluem:</h5>
 # 💻 Tech Stack:
 
 <div align="center" style="display: inline_block">
-<img align="center" alt="-Postman" height="130" width="130" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> 
+<img align="center" alt="-Postman" height="130" width="110" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> 
 <img align="center" alt="-Cypress" height="130" width="130" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />     
 <img align="center" alt="-Git" height="90" width="90" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img align="center" alt="-Github" height="165" width="165" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img align="center" alt="-Github" height="165" width="150" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img align="center" alt="-Js" height="165" width="165" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img align="center" alt="-HTML" height="105" width="105" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="-CSS" height="70" width="70" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
