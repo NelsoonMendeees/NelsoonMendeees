@@ -23,7 +23,7 @@ Minhas principais habilidades incluem:</h5>
 <img align="center" alt="-Js" height="100" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img align="center" alt="-HTML" height="100" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="-CSS" height="70" width="70" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="-Azure" height="100" width="100" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+<img align="center" alt="-Azure" height="120" width="120" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
 </div></br>
 
 <div align="center" width="100%">
