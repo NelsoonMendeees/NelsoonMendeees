@@ -10,20 +10,20 @@ Minhas principais habilidades incluem:</h5>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nelsongomees" target="_blank" rel="nofollow"><img height="40" width="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="nofollow"></a>  
+<a href="https://linkedin.com/in/nelsongomees" target="_blank" rel="nofollow"><img height="100" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="nofollow"></a>  
 <br>
 
 # 💻 Tech Stack:
 
 <div align="center" style="display: inline_block">
 <img align="center" alt="-Postman" height="100" width="100" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> 
-<img align="center" alt="-Cypress" height="40" width="40" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />     
-<img align="center" alt="-Git" height="40" width="40" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img align="center" alt="-Github" height="40" width="40" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img align="center" alt="-Js" height="40" width="40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img align="center" alt="-HTML" height="40" width="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="-CSS" height="40" width="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="-Azure" height="40" width="40" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+<img align="center" alt="-Cypress" height="100" width="100" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />     
+<img align="center" alt="-Git" height="100" width="100" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img align="center" alt="-Github" height="100" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img align="center" alt="-Js" height="100" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img align="center" alt="-HTML" height="100" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="-CSS" height="100" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="-Azure" height="100" width="100" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
 </div></br>
 
 <div align="center" width="100%">
