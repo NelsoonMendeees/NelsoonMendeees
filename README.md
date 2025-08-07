@@ -17,7 +17,7 @@ Minhas principais habilidades incluem:</h5>
 
 <div align="center" style="display: inline_block">
 <img align="center" alt="-Postman" height="100" width="100" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> 
-<img align="center" alt="-Cypress" height="100" width="100" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />     
+<img align="center" alt="-Cypress" height="90" width="90" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />     
 <img align="center" alt="-Git" height="90" width="90" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img align="center" alt="-Github" height="165" width="165" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img align="center" alt="-Js" height="165" width="165" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
