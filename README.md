@@ -26,7 +26,7 @@ Minhas principais habilidades incluem:</h5>
 <img align="center" alt="-Azure" height="155" width="155" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
 </div></br>
 
-<div align="center" style="display: inline_block">
+<div align="center">
   [![Nelson Mendes](https://github-readme-stats.vercel.app/api?username=NelsoonMendeees&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   [![Nelson Mendes](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsoonMendeees&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
