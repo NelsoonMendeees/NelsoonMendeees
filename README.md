@@ -27,5 +27,5 @@ Minhas principais habilidades incluem:</h5>
 </div></br>
 
 <div align="center" width="100%">
-  [![card](https://github-readme-stats.vercel.app/api?username=NelsoonMendeees&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  ![Nelson Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsoonMendeees&show_icons=true&theme=merko)
 </div>
