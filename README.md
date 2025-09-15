@@ -27,5 +27,5 @@ Minhas principais habilidades incluem:</h5>
 </div></br>
 
 <div align="center" width="100%">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=NelsoonMendeees&theme=chartreuse-dark&hide_border=true" alt="NelsoonMendeees" />
+  [![card](https://github-readme-stats.vercel.app/api?username=NelsoonMendeees&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
